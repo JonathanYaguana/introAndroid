@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoRecolector</string>
+    <string name="camara">Camara</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="listar">Listar</string>
+</resources>
