@@ -4,4 +4,9 @@
     <string name="sincronizar">Sincronizar</string>
     <string name="nuevo">Nuevo</string>
     <string name="listar">Listar</string>
+    <string name="title_activity_listar__infor">Listar_Infor</string>
+    <string name="title_activity_listar">Listar</string>
+    <string name="title_activity_nuevo">Nuevo</string>
+    <string name="title_activity_sincronizar">Sincronizar</string>
+    <string name="title_activity_camara">camara</string>
 </resources>

@@ -11,9 +11,9 @@
         android:background="@drawable/fondo"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"/>
+
     <ImageView
         android:layout_marginTop="10dp"
         android:background="@drawable/logo"
@@ -23,17 +23,20 @@
         android:scaleType="fitXY"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
+
     <LinearLayout
         android:layout_marginTop="90dp"
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <LinearLayout
             android:gravity="center"
             android:orientation="vertical"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content">
+
             <Button
                 android:id="@+id/bt1"
                 android:background="@mipmap/ic_nuevo"
@@ -61,6 +64,7 @@
                 android:text="@string/sincronizar"
                 android:textAlignment="center"/>
         </LinearLayout>
+
         <LinearLayout
             android:gravity="center"
             android:orientation="vertical"
